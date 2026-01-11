@@ -7,8 +7,6 @@ Let me introduce you my person, My name is Elio David and I'm Software developer
 - 🎓 Also, I'm studying the career of software engineering at UTP (Universidad Tecnologica del Perú) :D
 - 📚 Lover of world history, Peruvian literature and science in general ❤️.
 
-You can find more about me in my website: https://deliocoder.github.io/My-Portfolio-React/
-
 #
 
 <div align="center">
