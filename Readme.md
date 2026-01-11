@@ -4,7 +4,7 @@ Let me introduce you my person, My name is Elio David and I'm Software developer
 - 👨‍💻 Currently, I have a technician degree on software developer at SENATI.
 - 🔨 Web developer (UI/UX Design & server/apis developer) since 2019.
 - 🎓 I have an english certificate from ICPNA (Intermediate level) 🙎🏻‍♂️.
-- 🎓 Also, I'm studying the career of software engineering at UTP (Universidad Tecnologica del Perú) :D
+- 🎓 I'm studying the career of software engineering at UTP (Universidad Tecnologica del Perú) :D
 - 📚 Lover of world history, Peruvian literature and science in general ❤️.
 
 #
